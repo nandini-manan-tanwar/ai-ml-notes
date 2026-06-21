@@ -1,0 +1,19 @@
+# Introduction to Artificial Intelligence
+
+## What is AI?
+The ability of machines to perform tasks that usually require human intelligence.
+
+## Types of AI
+- **Predictive AI** — uses historical data to forecast events, trends, or behaviors
+- **Generative AI** — creates new content (text, images, music) by learning from large datasets
+- **Decision-making AI** — analyzes data, weighs options, and recommends the most effective action
+
+## AI Capabilities
+- **Perception** — analyzes images, sounds, and sensory data
+- **Language** — understands, interprets, and generates human language (NLP)
+- **Decision-making** — evaluates data and makes choices based on programmed rules
+
+## How AI Works (3 stages)
+1. **Analysis** — examines large amounts of data to find patterns and insights
+2. **Augmentation** — supports human thinking, decisions, and creativity
+3. **Automation** — handles repetitive, predictable tasks (sorting files, generating reports)
